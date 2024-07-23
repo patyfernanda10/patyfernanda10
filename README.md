@@ -1,4 +1,4 @@
-## Olá, eu sou a Patricia❤️🐱
+## Olá, eu me chamo Patricia❤️🐱
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patyfernanda10&show_icons=true&theme=transparent )
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patyfernanda10&layout=compact&langs=16&theme=transparent)
 
